@@ -6,26 +6,26 @@ skills:
   - 30815
 effects:
   - Stealth
+title: Power Holosmith
+rating: Good
+role: Power Damage
 author: Ascers.6082
+profession: Engineer
 specialization: Holosmith
+conditions:
+  - Vulnerability
+  - Blinded
+  - Crippled
+  - Immobile
 code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: 2022-01-24T17:30:31.960Z
-title: Power Holosmith
-rating: Good
-role: Power Damage
-profession: Engineer
-conditions:
-  - Vulnerability
-  - Blinded
-  - Crippled
-  - Immobile
-cmGuide: ""
+date: 2022-02-01T12:07:13.128Z
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -300,13 +300,14 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 - You can either swap utility skills manually or via template. Make sure to have the same traits in both templates selected if you choose the template route.
 - If this is taken care of, you can do the following extra pre-casts:
 
-1. Equip <Skill name="Thumper Turret"/>, <Skill name="Bomb Kit"/> and <Skill name="Flamethrower"/>.
-2. Place <Skill name="Big Ol Bomb"/>.
-3. Use <Skill name="Fire Bomb"/> or <Skill name="Napalm"/> to provide a fire field.
-4. Use <Skill name="Rumble"/>, <Skill name="Flame Blast"/> and <Skill name="Magnetic Inversion"/> to blast.
-5. Use <Skill name="Incendiary Ammo"/>.
-6. Swap to your regular utilities and use <Skill name="Laser Disk"/>.
-7. Take the singularity.
+1. Equip <Skill name="Healing Turret"/>, <Skill name="Thumper Turret"/>, <Skill name="Bomb Kit"/> and <Skill name="Flamethrower"/>.
+2. Place <Skill name="Healing Turret"/> and <Skill name="Thumper Turret"/>, wait for water field to pass.
+3. Place <Skill name="Big Ol Bomb"/>.
+4. Use <Skill name="Napalm"/> to provide a fire field.
+5. Use <Skill name="Rumble"/>, <Skill name="Flame Blast"/>, <Skill name="Magnetic Inversion"/>, and detonate both turrets to blast.
+6. Use <Skill name="Incendiary Ammo"/>.
+7. Swap to your regular utilities and use <Skill name="Laser Disk"/>.
+8. Take the singularity.
 
 - If you want to go the extra mile, you can keep the Flamethrower equipped and use <Skill name="Incendiary Ammo"/> again and place <Skill name="Napalm"/> on the boss spawn location before swapping it out.
 - <Skill name="Holographic Shockwave"/> provides yet another blast finisher if it works with your Heat management.
